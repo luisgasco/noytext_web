@@ -11,8 +11,7 @@ page_sections:
     link_text: Home
   - link_text: Features
     link: noytext_web/features
-  - link: noytext_web/asd
+  - link: noytext_web/setup-guide
     link_text: Setup guide
-published: false
 
 ---
