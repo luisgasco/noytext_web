@@ -9,9 +9,9 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: noytext_web/asd
+  - link: noytext_web/features
+    link_text: Features
+  - link: noytext_web/setup-guide
     link_text: Setup guide
-  - {}
-published: false
 
 ---
