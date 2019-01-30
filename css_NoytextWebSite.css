@@ -251,7 +251,7 @@ input.inverted::placeholder {
     min-height: 500px;
 }
 }.block-hero-2 {
-    --bg: #ffcb3c;
+    --bg: #2b2c38;
     --text: #fff;
     -ms-flex-direction: column;
     flex-direction: column;
