@@ -11,7 +11,7 @@ fields:
 - type: file
   name: logo
   label: Logo
-  default: "/uploads/2019/01/30/Noytext r1-01.png"
+  default: "/uploads/2019/01/30/Noytext r1-01_BLACK.png"
 - type: field_group_list
   name: navigation
   label: Navigation
