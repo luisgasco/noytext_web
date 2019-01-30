@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/01/30/Noytext_logo.jpeg"
   navigation:
-  - link: "/"
+  - link: noytext_web/
     link_text: Home
   - link_text: Features
     link: noytext_web/features
