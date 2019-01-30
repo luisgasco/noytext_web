@@ -13,5 +13,8 @@ page_sections:
     link_text: Features
   - link: noytext_web/setup-guide
     link_text: Setup guide
+  cta:
+    url: https://github.com/luisgasco/noytext
+    button_text: Download
 
 ---
