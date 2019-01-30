@@ -167,7 +167,7 @@ input.inverted::placeholder {
     margin: 0;
 }
 .block-header-2 {
-    background-color: #36274E;
+    background-color: #fFF;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: justify;
@@ -179,7 +179,7 @@ input.inverted::placeholder {
 }
 .block-header-2--logo img {
     max-height: 24px;
-    max-height: 1.5rem;
+    max-height: 3rem;
 }
 .block-header-2--nav {
     display: -ms-flexbox;
@@ -200,13 +200,13 @@ input.inverted::placeholder {
 }
 .block-header-2 .nav-item a {
     text-decoration: none;
-    color: #FFF;
+    color: #040619;
 }
 .block-header-2 .nav-item a:hover {
-    color: #ffcb3c;
+    color: #616168;
 }
 .block-header-2 .nav-item.active a:hover {
-    color: #ffcb3c;
+    color: #616168;
 }
 .block-header-2 .nav-item:last-of-type {
     margin: 0;
