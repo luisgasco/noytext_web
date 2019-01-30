@@ -78,7 +78,7 @@ p {
 }
 .button.primary {
     background-color: #1e2857;
-    color: #ffffff;
+    color: #fff;
 }
 .button.primary.inverted {
     background-color: #777;
@@ -179,7 +179,7 @@ input.inverted::placeholder {
 }
 .block-header-2--logo img {
     max-height: 24px;
-    max-height: 3rem;
+    max-height: 2.25rem;
 }
 .block-header-2--nav {
     display: -ms-flexbox;
