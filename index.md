@@ -36,8 +36,8 @@ page_sections:
   content: Improve the quality of your annotations by sharing the URL of your web
     application with colleagues and partners.
   media:
-    image: "/uploads/2018/06/21/blocks-split.png"
-    alt_text: uBuild Blocks Mock-Up
+    image: "/uploads/2019/01/30/12210424505_2da556e2df_b.jpg"
+    alt_text: trainingdata
 - template: content-feature
   block: feature-1
   media_alignment: Right
