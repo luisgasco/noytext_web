@@ -5,7 +5,7 @@ date: 2017-11-22 23:00:00 +0000
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2019/01/30/Noytext_logo.jpeg"
+  logo: "/uploads/2019/01/30/Noytext r1-01_BLACK.png"
   navigation:
   - link: noytext_web/
     link_text: Home
