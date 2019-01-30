@@ -63,7 +63,7 @@ page_sections:
     create nASew sites and make them fully customizable. \U0001F447"
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: Hello world! ❤︎dd
 
 ---
 foo bar
