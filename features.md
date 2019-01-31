@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link_text: Features
     link: noytext_web/features
-  - link: noytext_web/setup-guide
+  - link: https://github.com/luisgasco/noytext/blob/master/README.md#installation
     link_text: Setup guide
   cta:
     button_text: Download
