@@ -35,5 +35,9 @@ page_sections:
   content: Customize the app to your needs
 - template: 3-column-text
   block: three-column-1
+  col_1:
+    headline: Fully customizable UI
+    content: Introduce your project and team with your html files<br>Configure your
+      own help page<br>Personalize your navigation bar as you wish<br><img src="/uploads/2019/01/31/Generic_Pointer_for_UI-ConvertImage.png">
 
 ---
