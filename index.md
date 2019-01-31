@@ -20,7 +20,7 @@ page_sections:
   block: hero-2
   headline: "<strong>Noytext</strong><br>The best way to annotate your texts for ML
     applications"
-  content: Deploy in your own server a web app to annotate your texts
+  content: Deploy in your server a free web app to annotate your texts
   cta:
     enabled: true
     url: https://github.com/luisgasco/noytext
