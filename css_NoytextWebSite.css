@@ -552,8 +552,8 @@ input.inverted::placeholder {
     margin-bottom: 2rem;
 }
 .block-feature-1 .column.media, .block-feature-1 .column.text {
-    -ms-flex: 0 0 40%;
-    flex: 0 0 40%}
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%}
 .block-feature-1 .column.text h2 {
     margin-bottom: 16px;
     margin-bottom: 1rem;
