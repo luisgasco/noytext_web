@@ -38,11 +38,19 @@ page_sections:
   media:
     image: "/uploads/2019/01/30/12210424505_2da556e2df_b.jpg"
     alt_text: trainingdata
-- template: 1-column-text
-  block: one-column-1
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  headline: Noytext is <strong>customization</strong>
+  content: Design and generate a questionnaire to know the profile of your annotators,
+    configure the number of required annotations for each text and the application
+    UI
+  media:
+    image: "/uploads/2019/01/31/logo_noytext_negro.png"
+    alt_text: Noytext logo big
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
   headline: Noytext is <strong>cross-platform</strong>
   content: Deploy it on your server and your annotators will be able to access the
     app through any web browser. On your laptop, tablet or smartphone, Noytext has
@@ -59,16 +67,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎dd
-- template: content-feature
-  block: feature-1
-  media_alignment: ''
-  headline: Noytext is <strong>customization</strong>
-  content: Design and generate a questionnaire to know the profile of your annotators,
-    configure the number of required annotations for each text and the application
-    UI
-  media:
-    image: ''
-    alt_text: ''
 
 ---
 foo bar
