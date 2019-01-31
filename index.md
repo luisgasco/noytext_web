@@ -58,6 +58,11 @@ page_sections:
   media:
     image: "/uploads/2019/01/31/internet-1295531_960_720.png"
     alt_text: responsive
+- template: simple-footer
+  block: footer-1
+  content: 'Noytext is licensed under the terms of the <strong>GNU Affero General
+    Public License v3.0 . </strong>You can read those terms <a href="https://github.com/luisgasco/noytext/blob/master/LICENSE"
+    title="">here</a>  '
 
 ---
 foo bar
