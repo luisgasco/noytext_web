@@ -416,6 +416,7 @@ input.inverted::placeholder {
 .block-three-column-1 .column h3 {
     margin-bottom: 16px;
     margin-bottom: 1rem;
+    font-size: large;
 }
 @media screen and (min-width:750px) {
     .block-three-column-1 .column {
