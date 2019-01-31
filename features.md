@@ -16,5 +16,20 @@ page_sections:
   cta:
     button_text: Download
     url: https://github.com/luisgasco/noytext
+- template: 1-column-text
+  block: one-column-1
+  content: Application developed with R-Shiny and conceived to be used with MongoDB
+    database
+  headline: Backend technologies
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: "/uploads/2019/01/31/Shiny.png"
+    caption: Shiny server
+  image_2:
+    image: "/uploads/2019/01/31/Mongo.png"
+    caption: Mongo DB
+- template: 3-column-text
+  block: three-column-1
 
 ---
