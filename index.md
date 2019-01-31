@@ -58,23 +58,6 @@ page_sections:
   media:
     image: "/uploads/2019/01/31/internet-1295531_960_720.png"
     alt_text: responsive
-- template: 1-column-text
-  block: one-column-1
-  headline: Noytext is customization
-  content: Design and generate a questionnaire to know the profile of your annotators,
-    configure the number of required annotations for each text and the application
-    UI<br>
-- template: simple-footer
-  block: footer-1
-  content: Hello world! ❤︎dd
-- template: hero-banner-w-image
-  block: hero-2
-  cta:
-    url: noytext_web/features
-    enabled: true
-    button_text: Go!
-  headline: "<strong>Features</strong>"
-  content: 'Check out the application capabilities  '
 
 ---
 foo bar
