@@ -67,6 +67,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎dd
+- template: hero-banner-w-image
+  block: hero-2
+  cta:
+    url: noytext_web/features
+    enabled: true
+    button_text: Go!
+  headline: "<strong>Features</strong>"
+  content: 'Check out the application capabilities  '
 
 ---
 foo bar
