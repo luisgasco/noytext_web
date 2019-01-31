@@ -37,13 +37,14 @@ page_sections:
   block: three-column-1
   col_1:
     headline: Fully customizable UI
-    content: Introduce your project and team with your html files<br>Configure your
-      own help page<br>Personalize your navigation bar as you wish
+    content: Introduce your project and team with your html files, configure your
+      own help page, and personalize your navigation bar as you wish
   col_2:
     headline: Interannotator agreement
-    content: 'Define the No. of times a text should be annotated by different users  '
+    content: Define the number of times a text should be annotated by different users
   col_3:
-    headline: 'Get info. about your annotators:'
-    content: Create a small questionaire to ask your annotators.
+    headline: 'Information about your annotators:'
+    content: Create and use a persolized questionnaire to obtain details about your
+      notebooks
 
 ---
