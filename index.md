@@ -26,8 +26,8 @@ page_sections:
     url: https://github.com/luisgasco/noytext
     button_text: 'See on GitHub '
   image:
-    image: "/uploads/2019/01/31/noytext_capture.JPG"
-    alt_text: Product Shot
+    image: "/uploads/2019/01/31/noytext_image_round.png"
+    alt_text: Noytext screenshot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
   block: feature-1
