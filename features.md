@@ -25,10 +25,10 @@ page_sections:
   block: media-2
   image_1:
     image: "/uploads/2019/01/31/Shiny.png"
-    caption: Shiny server
+    caption: ''
   image_2:
     image: "/uploads/2019/01/31/Mongo.png"
-    caption: Mongo DB
+    caption: ''
 - template: 1-column-text
   block: one-column-1
   headline: Personalization
