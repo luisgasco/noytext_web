@@ -38,6 +38,12 @@ page_sections:
   col_1:
     headline: Fully customizable UI
     content: Introduce your project and team with your html files<br>Configure your
-      own help page<br>Personalize your navigation bar as you wish<br><img src="/uploads/2019/01/31/Generic_Pointer_for_UI-ConvertImage.png">
+      own help page<br>Personalize your navigation bar as you wish
+  col_2:
+    headline: Interannotator agreement
+    content: 'Define the No. of times a text should be annotated by different users  '
+  col_3:
+    headline: 'Get info. about your annotators:'
+    content: Create a small questionaire to ask your annotators.
 
 ---
