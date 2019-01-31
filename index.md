@@ -51,6 +51,13 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
+  media:
+    image: "/uploads/2019/01/31/internet-1295531_960_720.png"
+  content: fasfas
+  headline: "<strong>fasfasfa</strong>"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
   headline: Noytext is <strong>cross-platform</strong>
   content: Deploy it on your server and your annotators will be able to access the
     app through any web browser. On your laptop, tablet or smartphone, Noytext has
