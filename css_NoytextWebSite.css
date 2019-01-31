@@ -329,7 +329,6 @@ input.inverted::placeholder {
     flex-direction: column;
     -ms-flex-pack: center;
     justify-content: center;
-    min-height:70vh;
     background-color: var(--bg);
     color: var(--text);
     background-repeat: no-repeat;
