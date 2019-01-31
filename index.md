@@ -38,6 +38,8 @@ page_sections:
   media:
     image: "/uploads/2019/01/30/12210424505_2da556e2df_b.jpg"
     alt_text: trainingdata
+- template: 1-column-text
+  block: one-column-1
 - template: content-feature
   block: feature-1
   media_alignment: ''
@@ -60,10 +62,10 @@ page_sections:
     alt_text: responsive
 - template: 1-column-text
   block: one-column-1
-  headline: 16 Fully Responsive Design Blocks
-  content: "The Design Blocks can be used without Forestry but to harness the power
-    of Blocks we recommend using Forestry. Once the site is imported you can immediately
-    create nASew sites and make them fully customizable. \U0001F447"
+  headline: Noytext is customization
+  content: Design and generate a questionnaire to know the profile of your annotators,
+    configure the number of required annotations for each text and the application
+    UI<br>
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎dd
