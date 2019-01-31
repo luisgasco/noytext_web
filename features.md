@@ -29,6 +29,9 @@ page_sections:
   image_2:
     image: "/uploads/2019/01/31/Mongo.png"
     caption: Mongo DB
+- template: 1-column-text
+  block: one-column-1
+  headline: Personlization
 - template: 3-column-text
   block: three-column-1
 
