@@ -52,9 +52,9 @@ page_sections:
   block: feature-1
   media_alignment: Left
   headline: Noytext is <strong>cross-platform</strong>
-  content: Deploy it on your server and your annotators will be able to access the
-    app through any web browser. On your laptop, tablet or smartphone, Noytext has
-    a responsive design
+  content: Deploy it on a server and your annotators will be able to access the app
+    through any web browser. On your laptop, tablet or smartphone, Noytext has a responsive
+    design
   media:
     image: "/uploads/2019/01/31/internet-1295531_960_720.png"
     alt_text: responsive
