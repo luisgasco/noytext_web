@@ -7,10 +7,10 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/01/31/Noytext Final-01_black.png"
   navigation:
-  - link: noytext_web/
+  - link: "/"
     link_text: Home
   - link_text: Features
-    link: noytext_web/features
+    link: "/features"
   - link: https://github.com/luisgasco/noytext/blob/master/README.md#installation
     link_text: Setup guide
   cta:
