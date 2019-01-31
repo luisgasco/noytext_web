@@ -46,5 +46,10 @@ page_sections:
     headline: 'Information about your annotators:'
     content: Create and use a persolized questionnaire to obtain details about your
       notebooks
+- template: simple-footer
+  block: footer-1
+  content: Noytext is licensed under the terms of the <strong>GNU Affero General Public
+    License v3.0 . </strong>You can read those terms <a href="https://github.com/luisgasco/noytext/blob/master/LICENSE"
+    title="">here</a>
 
 ---
