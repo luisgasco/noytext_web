@@ -31,7 +31,8 @@ page_sections:
     caption: Mongo DB
 - template: 1-column-text
   block: one-column-1
-  headline: Personlization
+  headline: Personalization
+  content: Customize the app to your needs
 - template: 3-column-text
   block: three-column-1
 
