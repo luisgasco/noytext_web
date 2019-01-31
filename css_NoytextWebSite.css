@@ -337,8 +337,7 @@ input.inverted::placeholder {
     background-image: url('/noytext_web/uploads/2018/06/21/hero-2-bg.png')
 }
 }.block-one-column-1 .columns {
-    display: -ms-flexbox;
-    display: flex;
+
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
     margin: -32px;
@@ -349,9 +348,9 @@ input.inverted::placeholder {
 
 }
 .block-one-column-1 .container {
-    width: 400px;
+    width: 1200px;
     max-width: 100%;
-    margin: 2.5% auto;
+    margin: 0 auto;
 
 }
 .block-one-column-1 .column {
@@ -360,7 +359,8 @@ input.inverted::placeholder {
     margin: 32px;
     margin: rem;
     text-align: center;
-    padding: 0 0%;
+    padding: 0 0;
+    margin: auto;
 
 }
 .block-one-column-1 .column h3 {
