@@ -33,6 +33,6 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- index.md
 - setup-guide.md
 - features.md
-- index.md
