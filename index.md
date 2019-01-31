@@ -46,8 +46,8 @@ page_sections:
     configure the number of required annotations for each text and the application
     UI
   media:
-    image: "/uploads/2019/01/31/logo_noytext_negro.png"
-    alt_text: Noytext logo big
+    image: "/uploads/2019/01/31/logo_noy_negro_padd_left.png"
+    alt_text: Noytext logo big pad left
 - template: content-feature
   block: feature-1
   media_alignment: Left
