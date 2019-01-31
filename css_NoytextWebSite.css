@@ -257,7 +257,7 @@ input.inverted::placeholder {
     flex-direction: column;
     -ms-flex-pack: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 10vh;
     background-color: var(--bg);
     color: var(--text);
     background-repeat: no-repeat;
@@ -322,6 +322,19 @@ input.inverted::placeholder {
     width: 45vw;
     max-width: 520px;
 }
+}.block-one-column-1{
+    --bg: #2b2c38;
+    --text: #fff;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background-color: var(--bg);
+    color: var(--text);
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: 100%
+}
 }.block-one-column-1 .columns {
     display: -ms-flexbox;
     display: flex;
@@ -329,6 +342,9 @@ input.inverted::placeholder {
     flex-wrap: wrap;
     margin: -32px;
     margin: -2rem;
+    align-items:center;
+    width: 500px;
+    max-width: 10%;
 }
 .block-one-column-1 .column {
     -ms-flex: 0 0 calc(100% - 4rem);
@@ -336,10 +352,18 @@ input.inverted::placeholder {
     margin: 32px;
     margin: 2rem;
     text-align: center;
+    padding: 0 20%;
 }
 .block-one-column-1 .column h3 {
     margin-bottom: 16px;
     margin-bottom: 1rem;
+    font-size:32px
+}
+.block-one-column-1 .column p {
+    margin-bottom: 16px;
+    margin-bottom: 1rem;
+    font-size:25px;
+    color:white
 }
 .block-two-column-1 .columns {
     display: -ms-flexbox;
